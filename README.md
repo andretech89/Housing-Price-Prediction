@@ -14,11 +14,11 @@ This project uses machine learning to predict house prices based on housing, eco
 ## Project Structure
 
 house-price-prediction/
-├── house\_price\_predictor.ipynb  # Main notebook with code and visualizations
-├── HouseTS.csv                  # Dataset
-├── requirements.txt             # Dependencies
-├── README.md                    # Project description
-└── .gitignore                   # Git exclusions
+   house\_price\_predictor.ipynb  # Main notebook with code and visualizations
+   HouseTS.csv                  # Dataset
+   requirements.txt             # Dependencies
+   README.md                    # Project description
+   .gitignore                   # Git exclusions
 
 
 
